@@ -2,7 +2,11 @@
 	"author": "Pippin Barr?",
 	"name": "fcc-learn-npm-package-json",
 	"description": "I am learning node and heroku and other stuff",
-	"keywords": ["freecodecamp", "heroku", "nodejs"],
+	"keywords": [
+		"freecodecamp",
+		"heroku",
+		"nodejs"
+	],
 	"license": "MIT",
 	"version": "1.0.0",
 	"dependencies": {
