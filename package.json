@@ -1,6 +1,7 @@
 {
 	"author": "Pippin Barr?",
 	"name": "fcc-learn-npm-package-json",
+	"description": "I am learning node and heroku and other stuff",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
