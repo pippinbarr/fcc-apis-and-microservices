@@ -3,6 +3,9 @@
 	"author": "Pippin Barr",
 	"description": "I hope I'm learning stuff",
 	"version": "0.1.0",
+	"engines": {
+		"node": "14.16.1"
+	},
 	"dependencies": {
 		"body-parser": "^1.15.2",
 		"cookie-parser": "^1.4.3",
